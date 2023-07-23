@@ -6,7 +6,7 @@
 - 💰 Bug Bounty Hunter
 - 🌱 I’m currently learning **Machine Learning**
 
-### Acknowledgement from Google, Mozilla, Uber etc 
+#### Acknowledgements from Google, Mozilla, Uber
 
 - https://chromereleases.googleblog.com/2023/07/stable-channel-update-for-chromeos.html
 
