@@ -6,6 +6,12 @@
 - 💰 Bug Bounty Hunter
 - 🌱 I’m currently learning **Machine Learning**
 
+#### Open Source Projects to Which I've Made Contributions
+
+- [Chromium](https://source.chromium.org/chromium/chromium/src/+/main:AUTHORS)
+- [NW.js](https://github.com/nwjs/nw.js/graphs/contributors)
+- [wxWidgets](https://github.com/wxWidgets/wxWidgets/blob/97546a6f0cf941ce94b42a27b23f51e224c8e54e/samples/taskbarbutton/taskbarbutton.cpp#L4)
+
 #### Acknowledgements from Google, Mozilla, Uber
 
 - https://chromereleases.googleblog.com/2023/07/stable-channel-update-for-chromeos.html
