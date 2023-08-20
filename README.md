@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChaobinZhang</h1>
 
-![](https://komarev.com/ghpvc/?username=zhchbin&color=blue&label=Profile%20views&style=flat)
-
 - 👨‍💻 Software Engineer 
 - 💰 Bug Bounty Hunter
 - 🌱 I’m currently learning **Machine Learning**
