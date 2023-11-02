@@ -12,6 +12,10 @@
 
 #### Acknowledgements from Google, Mozilla, Uber
 
+- https://chromereleases.googleblog.com/2023/10/stable-channel-update-for-desktop_31.html
+    
+    [[1492396](https://bugs.chromium.org/p/chromium/issues/detail?id=1492396)] Medium CVE-2023-5855: Use after free in Reading Mode. Reported by ChaobinZhang on 2023-10-13
+
 - https://chromereleases.googleblog.com/2023/07/stable-channel-update-for-chromeos.html
 
     [[1441306](https://bugs.chromium.org/p/chromium/issues/detail?id=1441306)] High CVE-2023-3731 Use-after-free in Ash. Reported by ChaobinZhang.
