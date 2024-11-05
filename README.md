@@ -11,6 +11,9 @@
 - [wxWidgets](https://github.com/wxWidgets/wxWidgets/blob/97546a6f0cf941ce94b42a27b23f51e224c8e54e/samples/taskbarbutton/taskbarbutton.cpp#L4)
 
 #### Acknowledgements from Google, Mozilla, Uber
+- https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html
+
+  [[326607008](https://issues.chromium.org/issues/326607008)] High CVE-2024-3834: Use after free in Downloads. Reported by ChaobinZhang on 2024-02-24
 
 - https://chromereleases.googleblog.com/2023/10/stable-channel-update-for-desktop_31.html
     
